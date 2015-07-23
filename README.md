@@ -1,2 +1,3 @@
 # astronomer-kinesis-boilerplate
-Make sure to run `npm install`
+1. Run `npm install`.
+2. Edit properties files.
